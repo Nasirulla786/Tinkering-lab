@@ -263,7 +263,7 @@ const Home = () => {
       </section>
 
       {/* PROJECTS PREVIEW SECTION */}
-      <section className="py-20 px-6 bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
+      {/* <section className="py-20 px-6 bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
         <div className="max-w-6xl mx-auto space-y-12">
           <div className="text-center space-y-4">
             <h2 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400">
@@ -308,7 +308,7 @@ const Home = () => {
             </Link>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* STARTUPS PREVIEW SECTION */}
       <section className="py-20 px-6 bg-gradient-to-br from-slate-800 via-orange-900 to-slate-800">
