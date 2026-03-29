@@ -14,7 +14,7 @@ export const addMember = async(req , res)=>{
             return res.status(400).json({message:"Image is required"});
         }
 
-        console.log("this is request",name);
+        // console.log("this is request",name);
 
         let img;
         if(req.file){
@@ -25,7 +25,7 @@ export const addMember = async(req , res)=>{
         })
 
 
-        console.log(member);
+        // console.log(member);
         return res.status(200).json({message:"Member add successFully.." , data:member});
 
     } catch (error) {
