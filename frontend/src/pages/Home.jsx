@@ -125,7 +125,7 @@ const Home = () => {
               data-animate
               className="text-4xl sm:text-5xl md:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 drop-shadow-lg mt-2"
             >
-              Tinkerer's Lab
+               Tinkerers' Lab
             </h1>
 
             <p
@@ -162,7 +162,7 @@ const Home = () => {
         <div className="max-w-6xl mx-auto space-y-12">
           <div className="text-center space-y-4">
             <h2 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">
-              Why Choose     Tinkerer's Lab?
+              Why Choose   Tinkerers' Lab?
             </h2>
             <div className="w-20 h-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full mx-auto"></div>
           </div>
@@ -195,7 +195,7 @@ const Home = () => {
 
           <div className="mt-16 p-8 rounded-2xl bg-gradient-to-r from-slate-800/50 to-slate-700/50 border border-purple-500/30 backdrop-blur-xl">
             <p className="text-lg text-gray-300 text-center leading-relaxed">
-              "The Tinker’s Lab is more than just a workshop – it's a movement. Here, every student, regardless of their background, gets the opportunity to experiment, fail, learn, and innovate. We believe that the future is built by those who dare to tinker and create." 🚀
+              "The  Tinkerers' Lab is more than just a workshop – it's a movement. Here, every student, regardless of their background, gets the opportunity to experiment, fail, learn, and innovate. We believe that the future is built by those who dare to  Tinkerers' and create." 🚀
             </p>
           </div>
         </div>
@@ -440,7 +440,7 @@ const Home = () => {
 
           <div className="pt-8 text-center space-y-2">
             <p className="text-sm text-gray-400">
-              © 2024     Tinkerer's Lab. All rights reserved.
+              © 2024  Tinkerers' Lab. All rights reserved.
             </p>
             <p className="text-sm text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400 font-semibold">
               Developed & Designed by Nasirulla (BCA)
