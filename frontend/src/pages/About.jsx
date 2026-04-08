@@ -50,7 +50,7 @@ export default function About() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-blue-400 drop-shadow-lg">
-            Tinker’s Lab
+               Tinkerer's Lab
           </h1>
 
           <p className="mt-4 text-lg md:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
@@ -70,7 +70,7 @@ export default function About() {
           </div>
 
           <p className="text-lg text-gray-300 leading-relaxed text-center max-w-3xl mx-auto">
-            The Tinker’s Lab is a hub of creativity and hands-on innovation. It provides students with an environment to explore electronics, IoT, robotics, fabrication, and prototyping. Equipped with tools like Arduino, NodeMCU, sensors, 3D printing, and fabrication equipment, the lab enables young innovators to convert their ideas into working models.
+            The  Tinkerer's Lab is a hub of creativity and hands-on innovation. It provides students with an environment to explore electronics, IoT, robotics, fabrication, and prototyping. Equipped with tools like Arduino, NodeMCU, sensors, 3D printing, and fabrication equipment, the lab enables young innovators to convert their ideas into working models.
           </p>
 
           <p className="text-lg text-gray-300 leading-relaxed text-center max-w-3xl mx-auto">

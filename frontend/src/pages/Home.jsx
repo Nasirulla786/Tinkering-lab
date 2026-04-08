@@ -104,7 +104,7 @@ const Home = () => {
         <img
           ref={imageRef}
           src={group2}
-          alt="Tinker’s Lab Background"
+          alt=" Tinkerer's Lab Background"
           className="absolute inset-0 w-full h-full object-cover"
         />
 
@@ -125,7 +125,7 @@ const Home = () => {
               data-animate
               className="text-4xl sm:text-5xl md:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 drop-shadow-lg mt-2"
             >
-              Tinker’s Lab
+              Tinkerer's Lab
             </h1>
 
             <p
@@ -162,7 +162,7 @@ const Home = () => {
         <div className="max-w-6xl mx-auto space-y-12">
           <div className="text-center space-y-4">
             <h2 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">
-              Why Choose Tinker’s Lab?
+              Why Choose     Tinkerer's Lab?
             </h2>
             <div className="w-20 h-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full mx-auto"></div>
           </div>
@@ -440,7 +440,7 @@ const Home = () => {
 
           <div className="pt-8 text-center space-y-2">
             <p className="text-sm text-gray-400">
-              © 2024 Tinker’s Lab. All rights reserved.
+              © 2024     Tinkerer's Lab. All rights reserved.
             </p>
             <p className="text-sm text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400 font-semibold">
               Developed & Designed by Nasirulla (BCA)
